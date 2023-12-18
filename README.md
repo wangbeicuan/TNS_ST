@@ -13,4 +13,8 @@ fun:
     v3.imporved redshift from top 10 data.
 
     v4.solved some debug:cut mag,repoted data,wider redshift range,solve - dec bug.
-    
+
+dir:
+    /TNS/TNS_ST/obs_csv:this is filtered transient every day.
+
+    /TNS/TNS_ST/obs_plan:this is filtered transient obs plan every day.(now is wrong information,just ref)
