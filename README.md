@@ -2,9 +2,9 @@ This is a transient notes.
 
 fun:
 
-    Get every day TNS information from TNS,then filter by dec and mag,(dec>-20,unit:deree,mag<18.8,unit:AB)
+    Get every day TNS information from TNS,then filter by dec and mag,(dec>-20,unit:deree,mag<=18.8,unit:AB)
 
-    next get 2 arcmin of TNS coordinates to get host redshift,choose no. 1 as redshift from top 10.
+    next get 2 arcmin of TNS coordinates from NED to get host redshift,choose no. 1 as redshift from top 10.
 
     'full_name', 'tns_ra_hms', 'tns_dec_hms','discoverymag','location','redshift','type','discoverydate','internal_names','host_name','host_ra_hms','host_dec_hms','ra','declination','filter','host_ra','host_dec','host_redshift','host_type','name_link' be saved.
 
