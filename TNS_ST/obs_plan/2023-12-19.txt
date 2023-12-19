@@ -1,0 +1,6 @@
+objName    ra   dec    expTime    expCount    type
+AT2021aiau    0:27:11.4625    +51:3:48.096    300    1    OBJECT
+AT2023zem    5:26:50.6512    -15:54:52.107    300    1    OBJECT
+AT2023aama    11:6:41.5738    +6:40:1.438    300    1    OBJECT
+AT2023zqy    11:15:21.8201    +31:31:24.668    300    1    OBJECT
+AT2023aakn    11:23:20.257    +5:51:7.399    300    1    OBJECT
