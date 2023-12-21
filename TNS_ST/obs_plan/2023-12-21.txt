@@ -1,0 +1,3 @@
+objName    ra   dec    expTime    expCount    type
+SN2023zbi    13:25:5.9599    -19:46:8.0    300    1    OBJECT
+AT2019aaua    23:34:33.9109    +3:37:43.935    300    1    OBJECT
