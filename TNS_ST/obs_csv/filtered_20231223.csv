@@ -1,0 +1,4 @@
+full_name,tns_ra_hms,tns_dec_hms,tns_ra,tns_dec,discoverydate,discovery_mag,filter,location,redshift,type,internal_names,host_name,host_ra_hms,host_dec_hms,host_ra,host_dec,host_redshift,host_type,TNS_link,ZTF_link
+AT2023aaui,3:43:36.0118,-11:53:13.063,55.9000490909,-11.8869618182,2023-12-22 20:30:02.880,15.575,orange,not_center,,,ATLAS23xus,WISEA J034338.00-115305.4,3:43:38.0064,-11:53:5.46,55.90836,-11.88485,--,IrS,https://www.wis-tns.org/object/2023aaui,
+AT2023aaur,1:12:37.7299,+61:27:35.46,18.157208,61.45985,2023-12-20 08:15:21.600,16.58,G,not_center,,,Gaia23dsf,WISEA J011237.91+612735.6,1:12:38.0016,+61:27:36.0,18.15834,61.46,--,IrS,https://www.wis-tns.org/object/2023aaur,
+SN2023zof,10:16:15.3499,+18:35:19.1,154.063958,18.588639,2023-12-06 13:46:52.608,18.715,orange,not_center,0.039,SN Ia,"ATLAS23xcj, PS23lts, Gaia23dsd",CGCG 093-083,10:16:15.4752,+18:35:24.936,154.06448,18.59026,0.038866,G,https://www.wis-tns.org/object/2023zof,
