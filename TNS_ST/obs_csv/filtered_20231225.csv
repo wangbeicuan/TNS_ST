@@ -1,0 +1,3 @@
+full_name,tns_ra_hms,tns_dec_hms,tns_ra,tns_dec,discoverydate,discovery_mag,filter,location,redshift,type,internal_names,host_name,host_ra_hms,host_dec_hms,host_ra,host_dec,host_redshift,host_type,TNS_link,ZTF_link
+AT2023abdv,1:11:8.4516,-13:56:38.958,17.785215,-13.944155,2023-12-25 01:43:11.424,18.589,orange,not_center,,nan,ATLAS23xvm,WISEA J011109.21-135630.8,1:11:9.2112,-13:56:30.912,17.78838,-13.94192,--,IrS,https://www.wis-tns.org/object/2023abdv,
+AT2023abde,22:32:50.0632,+23:56:30.539,338.208596699,23.9418164975,2023-12-24 05:46:56.352,18.442,orange,not_center,,nan,"ATLAS23xuz, PS23mqp",WISEA J223249.79+235633.1,22:32:49.7784,+23:56:33.288,338.20741,23.94258,0.044352,G,https://www.wis-tns.org/object/2023abde,
