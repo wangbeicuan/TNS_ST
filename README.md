@@ -11,7 +11,8 @@ fun:
     -->ref
 
     ATname,tns_ra_hms,tns_dec_hms,transient_ra,transient_dec,discoverydate,discoverymag,filter,location,redshift,type,internal_names,host_name,host_ra_hms,host_dec_hms,host_ra,host_dec,host_redshift,host_type,TNS_link,ZTF_link.
-    {\textbf TNS_link,ZTF_link,you can copy,right to search links.}
+    
+    {$\textbf TNS_link,ZTF_link,you can copy,right to search links.$}
 update log:
 
     v2. set center condition as 1.8 asc,add galaxy type,impove ST file object sort.
@@ -19,8 +20,12 @@ update log:
     v3.imporved redshift from top 10 data.
 
     v4.solved some debug:cut mag,repoted data,wider redshift range,solve - dec bug.
+    v5.add 
 
 dir:
     /TNS/TNS_ST/obs_csv:this is filtered transient every day.
 
     /TNS/TNS_ST/obs_plan:this is filtered transient obs plan every day.(now is wrong information,just ref)
+
+plan_link:
+    http://www.xinglong-naoc.cn/staralt/
