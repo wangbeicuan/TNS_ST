@@ -40,4 +40,4 @@
 4. 在郑老师的网站，绘制可观测曲线，见图1的红线和绿线查看**full_name,tns_ra_hms,tns_dec_hms**列(复制粘贴),注意目前只支持这个格式,http://www.xinglong-naoc.cn/staralt/
 5. 在群里及时通知，撰写观测申请
 6. 机动时间查看：http://www.xinglong-naoc.cn/html/obscal/
-
+7. note:记住NGC和M开头星系
