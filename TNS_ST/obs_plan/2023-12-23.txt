@@ -1,2 +1,0 @@
-objName    ra   dec    expTime    expCount    type
-SN2023yma    0:52:13.7201    +44:19:56.46    300    1    OBJECT

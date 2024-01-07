@@ -1,3 +1,0 @@
-objName    ra   dec    expTime    expCount    type
-AT2023aaif    12:30:55.2439    +3:29:29.496    300    1    OBJECT
-AT2023abjm    11:27:46.2185    +40:30:17.784    300    1    OBJECT

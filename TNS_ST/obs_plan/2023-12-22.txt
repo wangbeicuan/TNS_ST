@@ -1,1 +1,0 @@
-objName    ra   dec    expTime    expCount    type
